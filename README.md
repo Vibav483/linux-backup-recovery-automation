@@ -1,21 +1,21 @@
-# Linux Java Application Deployment & Recovery
+# Linux Backup, Recovery & Automation
 
-A hands-on Linux project to automate Java application deployment and rollback using Bash scripting.
+A hands-on Linux project focused on Bash scripting and reliable backup and recovery operations.
 
 ## Technologies
 - Linux (Ubuntu on WSL)
 - Bash
-- Java
-- Git & GitHub
-- Maven
-- systemd
+- tar and gzip
+- Git and GitHub
+- cron and systemd
 
 ## Features
-- Automated deployment
-- Application health checks
-- Service management
-- Deployment logging
-- Rollback on failure
+- Automated file backups
+- Backup retention and cleanup
+- Backup integrity verification
+- File restoration and recovery testing
+- Logging and error handling
+- Scheduled execution
 
 ## Status
-In progress 
+In progress
