@@ -3,3 +3,6 @@ lab/backups/*.tar.gz
 
 # Old Java practice project
 /app/
+
+# Runtime logs
+lab/logs/*.log
