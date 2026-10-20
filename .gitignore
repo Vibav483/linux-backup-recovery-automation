@@ -1,0 +1,5 @@
+# Generated backup archives
+lab/backups/*.tar.gz
+
+# Old Java practice project
+/app/
